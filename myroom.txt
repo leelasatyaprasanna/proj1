@@ -1,3 +1,0 @@
-table, room, fan, books
-water, chicken,
-
